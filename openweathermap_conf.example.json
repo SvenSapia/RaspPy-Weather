@@ -1,4 +1,10 @@
 {
-"owm_apikey": "43d0d6e46084f9ca03f165f9c6c0acf6",
-"owm_location": "Karlsruhe,de"
+	"owm":
+	{
+		"apikey": "changeme",
+		"location": "Karlsruhe,de",
+		"url": "http://api.openweathermap.org/data/2.5/weather?",
+		"str_key": "APPID=",
+		"str_loc": "q="
+	}
 }
