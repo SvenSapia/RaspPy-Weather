@@ -3,7 +3,8 @@
 	{
 		"apikey": "changeme",
 		"location": "Karlsruhe,de",
-		"url": "http://api.openweathermap.org/data/2.5/weather?",
+		"url_weather": "http://api.openweathermap.org/data/2.5/weather?",
+		"url_forecast": "http://api.openweathermap.org/data/2.5/forecast?",
 		"str_key": "APPID=",
 		"str_loc": "q="
 	}
